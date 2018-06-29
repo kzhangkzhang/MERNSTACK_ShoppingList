@@ -1,0 +1,1 @@
+## I am learning a MERN stack application called Shipping List following Brad's youtube series: https://www.youtube.com/watch?v=PBTYxXADG_k
